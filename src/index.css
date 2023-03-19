@@ -1,0 +1,4 @@
+.card, .list, .layout {
+  padding: 20px;
+  border: 2px solid blue;
+}
